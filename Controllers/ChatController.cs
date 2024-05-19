@@ -1,12 +1,31 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using Chat_App.Services;
+using Chat_App.Dtos;
 
-namespace Chat_App.Controllers
+namespace Api.Controllers
 {
-    public class ChatController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class ChatController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly ChatServices _chatService;
+        public ChatController(ChatServices chatService)
         {
-            return View();
+            _chatService = chatService;
         }
+
+        [HttpPost("register-user")]
+        public IActionResult RegisterUser(UserDto model)
+        {
+            if (_chatService.AddUserToList(model.Name))
+            {
+                return NoContent();
+            }
+            return BadRequest("Ovo ime je zauzeto, odaberite drugo ime.");
+        }
+
+        
+            
     }
 }

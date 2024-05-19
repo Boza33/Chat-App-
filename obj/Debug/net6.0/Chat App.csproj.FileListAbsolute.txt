@@ -32,3 +32,38 @@ C:\Users\matej\OneDrive\Desktop\C Sharp\Chat App\obj\Debug\net6.0\refint\Chat Ap
 C:\Users\matej\OneDrive\Desktop\C Sharp\Chat App\obj\Debug\net6.0\Chat App.pdb
 C:\Users\matej\OneDrive\Desktop\C Sharp\Chat App\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
 C:\Users\matej\OneDrive\Desktop\C Sharp\Chat App\obj\Debug\net6.0\ref\Chat App.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\appsettings.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Chat App.exe
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Chat App.deps.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Chat App.runtimeconfig.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Chat App.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Chat App.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.sourcelink.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.build.Chat App.props
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chat App.props
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chat App.props
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\scopedcss\bundle\Chat App.styles.css
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.csproj.Up2Date
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\refint\Chat App.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.pdb
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
