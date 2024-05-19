@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\Chat App\\Chat App.csproj": {}
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\Chat App\\Chat App.csproj": {
+    "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\Chat App\\Chat App.csproj",
+        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj",
         "projectName": "Chat App",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\Chat App\\Chat App.csproj",
+        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj",
         "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\Chat App\\obj\\",
+        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

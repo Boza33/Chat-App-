@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z+6UqjslXR7W5mN0m041WJequwVPDBne/SyJy6ehQTf9EwGhZXwmPRAX0a6RDIxuBzqurnKvrIpuEFryzA3NjQ==",
+  "dgSpecHash": "Xjje+SZUqXkpQLLfIEecv9peJ1W6+FFX9kZgUKs/ugQWjE5wNXZaKbNz/iKRJUUK/19bm86/iay/Z+9MiG35UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\Chat App\\Chat App.csproj",
+  "projectFilePath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matej\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\matej\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
