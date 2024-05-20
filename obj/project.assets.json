@@ -2464,23 +2464,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matej\\.nuget\\packages\\": {},
+    "C:\\Users\\KorisniK\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj",
+      "projectUniqueName": "C:\\Users\\KorisniK\\Desktop\\chatAppProject\\Chat-App-\\Chat App.csproj",
       "projectName": "Chat App",
-      "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\Chat App.csproj",
-      "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\Chat-App-\\obj\\",
+      "projectPath": "C:\\Users\\KorisniK\\Desktop\\chatAppProject\\Chat-App-\\Chat App.csproj",
+      "packagesPath": "C:\\Users\\KorisniK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KorisniK\\Desktop\\chatAppProject\\Chat-App-\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KorisniK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2536,7 +2536,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
