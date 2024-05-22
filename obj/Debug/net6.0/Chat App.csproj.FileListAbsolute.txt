@@ -193,3 +193,11 @@ C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\refint\Chat App.dll
 C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.pdb
 C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
 C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\ClientApp\angular.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\ClientApp\package-lock.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\ClientApp\package.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.app.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.spec.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\package-lock.json
+C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\bin\Debug\net6.0\package.json
