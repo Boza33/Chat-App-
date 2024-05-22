@@ -20,12 +20,12 @@ namespace Chat_App.Services
             Users.Add(userToAdd, null);
             return true;  
         }
-        public void AddUserConnectionID(string user, string connectionID)
+        public void AddUserConnectionId(string user, string connectionId)
         {
             lock (Users)
             {
                 if (Users.ContainsKey(user))
-                    Users[user] = connectionID;
+                    Users[user] = connectionId;
             }
         }
         
