@@ -42,8 +42,7 @@
               "RelativeToolTip": "Hubs\\ChatHub.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T12:34:03.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T12:34:03.382Z"
             },
             {
               "$type": "Document",
@@ -51,9 +50,9 @@
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Chat-App-\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
-              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Chat-App-\\Dtos\\UserDto.cs",
-              "RelativeToolTip": "Dtos\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABgAAAA",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Chat-App-\\Dtos\\UserDto.cs*",
+              "RelativeToolTip": "Dtos\\UserDto.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T12:28:12.028Z",
               "EditorCaption": ""
