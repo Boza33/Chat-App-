@@ -67,3 +67,129 @@ C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\refint\Chat 
 C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.pdb
 C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
 C:\Users\dimit\OneDrive\Documents\GitHub\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\appsettings.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\angular.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\package-lock.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\package.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.app.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.spec.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.exe
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.deps.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.runtimeconfig.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.pdb
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.csproj.AssemblyReference.cache
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfoInputs.cache
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CoreCompileInputs.cache
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.build.Chat App.props
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chat App.props
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chat App.props
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\scopedcss\bundle\Chat App.styles.css
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CopyComplete
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\refint\Chat App.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.pdb
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\appsettings.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\ClientApp\angular.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\ClientApp\package-lock.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\ClientApp\package.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.app.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.spec.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\package-lock.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\package.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Chat App.exe
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Chat App.deps.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Chat App.runtimeconfig.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Chat App.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Chat App.pdb
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.csproj.AssemblyReference.cache
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfoInputs.cache
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfo.cs
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CoreCompileInputs.cache
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.sourcelink.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.build.Chat App.props
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chat App.props
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chat App.props
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\scopedcss\bundle\Chat App.styles.css
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CopyComplete
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\refint\Chat App.dll
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.pdb
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
+C:\Users\KorisniK\Desktop\chatAppProject\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\angular.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\package-lock.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\package.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.app.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\ClientApp\tsconfig.spec.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\package-lock.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\package.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.exe
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.deps.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.runtimeconfig.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Chat App.pdb
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.AssemblyInfo.cs
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.sourcelink.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.build.Chat App.props
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chat App.props
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chat App.props
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\scopedcss\bundle\Chat App.styles.css
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.csproj.CopyComplete
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\refint\Chat App.dll
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.pdb
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
+C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
