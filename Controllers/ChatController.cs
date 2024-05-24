@@ -20,7 +20,7 @@ namespace Api.Controllers
         {
             if (_chatService.AddUserToList(model.Name))
             {
-                return NoContent();
+                return Ok("Korisnik je uspešno registrovan.");
             }
             return BadRequest("Ovo ime je zauzeto, odaberite drugo ime.");
         }

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@angular/core": "^17.3.9",
     "bootstrap": "^5.3.3"
   }
 }

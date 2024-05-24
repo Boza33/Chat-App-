@@ -193,3 +193,5 @@ C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\refint\Chat App.dll
 C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.pdb
 C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\Chat App.genruntimeconfig.cache
 C:\Users\pc\Desktop\Chat App\Chat-App-\obj\Debug\net6.0\ref\Chat App.dll
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\package-lock.json
+C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\Chat-App-\bin\Debug\net6.0\package.json

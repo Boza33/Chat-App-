@@ -39,11 +39,37 @@ public class ChatHub : Hub
     {
         await Clients.Group("Chat App").SendAsync("NewMessage", message);
     }
+    public async Task CreatePrivateChat(MessageDto message)
+    {
+        string privateGroupName = GetPrivateGroupName(message.From, message.To);
+        await Groups.AddToGroupAsync(Context.ConnectionId, privateGroupName);
+        var toConnectionId = _chatService.GetConnectionIdByUser(message.To);
+        await Groups.AddToGroupAsync(toConnectionId, privateGroupName);
+        await Clients.Client(toConnectionId).SendAsync("OpenPrivateChat", message);
+    }
+    public async Task ReceivePrivateMessage(MessageDto message)
+    {
+        string privateGroupName = GetPrivateGroupName(message.From, message.To);
+        await Clients.Group(privateGroupName).SendAsync("NewPrivateMessage", message);
+    }
+    public async Task RemovePrivateChat(string from, string to)
+    {
+        string privateGroupName = GetPrivateGroupName(from, to);
+        await Clients.Group(privateGroupName).SendAsync("ClosePrivateChat");
 
+        await Groups.RemoveFromGroupAsync(Context.ConnectionId, privateGroupName);
+        var toConnectionId = _chatService.GetUserByConnectionId(to);
+        await Groups.RemoveFromGroupAsync(toConnectionId, privateGroupName);
+    }
     private async Task DisplayOnlineUsers()
     {
         var onlineUsers = _chatService.GetOnlineUsers();
         await Clients.Groups("Chat App").SendAsync("OnlineUsers", onlineUsers);
+    }
+    private string GetPrivateGroupName(string from, string to)
+    {
+        var stringCompare = string.CompareOrdinal(from, to) < 0;
+        return stringCompare ? $"{from}-{to}" : $"{to}-{from}";
     }
 }
  
